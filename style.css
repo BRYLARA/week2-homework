@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(161, 154, 154);
+    font-family: Helvetica Neue Ultra Light;
+}
+
+h1{
+    color: rgb(255, 254, 253);
+}
+.container {
+    border-style: solid;
+    background-color: dimgray;
+    margin: auto;
+    padding-bottom: 5%;
+    page-break-after: auto;
+    align-items: center;
+}
+
